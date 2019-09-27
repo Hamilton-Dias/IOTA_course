@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@iota/core": "^1.0.0-beta.21",
     "express": "^4.17.1",
     "socket.io": "^2.3.0"
   },
