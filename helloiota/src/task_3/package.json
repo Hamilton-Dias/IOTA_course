@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@iota/core": "^1.0.0-beta.21",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "i": "^0.3.5",
     "jquery": "^3.4.1",
     "npm": "^3.10.9",
